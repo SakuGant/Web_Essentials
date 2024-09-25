@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4291812f-3041-4ed8-adca-357267f1ad3e" name="Changes" comment="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h3_intro/Shortcuts.Txt" beforeDir="false" afterPath="$PROJECT_DIR$/h3_intro/Shortcuts.Txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h3_intro/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/h3_intro/intro.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,7 @@
       <updated>1726747203996</updated>
       <workItem from="1726747206735" duration="4767000" />
       <workItem from="1726814070384" duration="12000" />
-      <workItem from="1727272012157" duration="3730000" />
+      <workItem from="1727272012157" duration="5058000" />
     </task>
     <task id="LOCAL-00001" summary="Added the initial helloworld&#10;file &#10;Updaye the readme TI-012">
       <option name="closed" value="true" />
@@ -143,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727274982172</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
+      <option name="closed" value="true" />
+      <created>1727275814328</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275814328</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
+      <option name="closed" value="true" />
+      <created>1727275822242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275822242</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
