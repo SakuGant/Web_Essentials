@@ -1,3 +1,4 @@
 Common code : CNTRL + SHIFT + /
 Lorem50 voor meer tekst
 code uitlijnen: Ctrl + ALT + L
+drop down: cntrl space
