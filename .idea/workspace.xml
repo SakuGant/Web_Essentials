@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4291812f-3041-4ed8-adca-357267f1ad3e" name="Changes" comment="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
-      <change afterPath="$PROJECT_DIR$/Oefeningen/blok en line elementen h3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4291812f-3041-4ed8-adca-357267f1ad3e" name="Changes" comment="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -36,7 +34,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Feat-001-ProductCard" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,7 +92,7 @@
       <updated>1726747203996</updated>
       <workItem from="1726747206735" duration="4767000" />
       <workItem from="1726814070384" duration="12000" />
-      <workItem from="1727272012157" duration="10671000" />
+      <workItem from="1727272012157" duration="11379000" />
     </task>
     <task id="LOCAL-00001" summary="Added the initial helloworld&#10;file &#10;Updaye the readme TI-012">
       <option name="closed" value="true" />
@@ -176,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727352324786</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
+      <option name="closed" value="true" />
+      <created>1727355717399</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727355717399</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
+      <option name="closed" value="true" />
+      <created>1727355741134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727355741134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
