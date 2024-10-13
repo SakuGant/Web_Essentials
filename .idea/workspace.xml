@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="800516cf-d6c3-4f5d-9c66-227ad0787413" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Oefeningen/Oefening 1.html" afterDir="false" />
+    <list default="true" id="800516cf-d6c3-4f5d-9c66-227ad0787413" name="Changes" comment="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text">
+      <change afterPath="$PROJECT_DIR$/H4/h4_oefening.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H4/h4_oefening.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oefeningen/Oefening 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Oefeningen/Oefening 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-pe-2-Sakugant/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-pe-2-Sakugant/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-pe-2-Sakugant/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-pe-2-Sakugant/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,9 +56,11 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Oefening 1.html.executor": "Run",
+    "JavaScript Debug.h4_oefening.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sorda/Web_Essentials",
+    "last_opened_file_path": "C:/Users/sorda/Web_Essentials/git-pe-2-Sakugant",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +72,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sorda\Web_Essentials" />
       <recent name="C:\Users\sorda\Web_Essentials 2" />
     </key>
   </component>
@@ -89,6 +99,9 @@
       <workItem from="1727350567868" duration="2722000" />
       <workItem from="1727355353091" duration="902000" />
       <workItem from="1727541877076" duration="317000" />
+      <workItem from="1728545795737" duration="3359000" />
+      <workItem from="1728549282353" duration="377000" />
+      <workItem from="1728845285967" duration="117000" />
     </task>
     <servers />
   </component>
@@ -97,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the initial helloworld&#10;file&#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the initial helloworld&#10;file &#10;Update the readme TI-01&#10;Updated the initial helloworld2.html&#10;Updatedd new text in README.md&#10;Added in helloworld2.html new text" />
   </component>
 </project>
