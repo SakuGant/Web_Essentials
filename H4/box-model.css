@@ -1,0 +1,15 @@
+div {
+    display: inline-block;
+    width: 25%;
+    height: 50%;
+    padding: 20px;
+    border: 5px solid pink;
+}
+p {
+    border: 3px violet;
+    background-color: hotpink;
+    width: 50%;
+    padding: 100px;
+}
+
+
