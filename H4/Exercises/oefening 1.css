@@ -1,0 +1,24 @@
+body{
+  background-color: #F1F0F1;
+}
+.Header-1{
+    background-color: #000000;
+    color: white;
+    font-size: 48px;
+    font-family: Arial black, sans-serif;
+    text-transform: uppercase;
+    padding: 25px;
+
+
+}
+.Header-2{
+    color: #505050;
+    font-family: Arial black, sans-serif;
+
+}
+p,li{
+    font-family: Arial, sans-serif;
+}
+.font-weight{
+    font-weight: bold;
+}
