@@ -1,0 +1,113 @@
+:root {
+    --dark-bg-color: black;
+    --light-bg-color: white;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: SST,helvetica,arial,sans-serif;
+    background-color: var(--light-bg-color);
+}
+
+h1{
+    font-weight: 300;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.navigation-bar{
+
+    & .top-bar{
+        height: 3vh;
+        background-color: black;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+        & img{
+            height: 45%;
+            margin-right: 1%;
+        }
+    }
+
+    & nav{
+        display: flex;
+        justify-content: space-between;
+        height: 5vh;
+
+        & .nav-left{
+            display: flex;
+            height: 100%;
+            gap: 2%;
+            align-items: center;
+
+            & img{
+                height: 80%;
+                display: inline-block;
+                margin-left: 2%;
+            }
+
+            & ul{
+                display: flex;
+                list-style-type: none;
+                gap: 5%;
+
+                & a{
+                    color: black;
+                }
+            }
+        }
+
+        & .nav-right{
+            display: flex;
+            align-items: center;
+
+            & .sign-in{
+                border-radius: 25px;
+                background-color: #4e4c4c;
+                color: white;
+                display: flex;
+                height: 60%;
+                padding: 0 12px 4px;
+                align-items: center;
+            }
+        }
+    }
+}
+
+.holiday-banner{
+    height: 70vh;
+    background-image: url("./assets/deel-1/hero-banner.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    color: #b5aeae;
+    align-items: center;
+    flex-direction: column;
+    gap: 5%;
+
+    & h1{
+        margin-top: 3%;
+    }
+
+    & p{
+        max-width: 40%;
+        text-align: center;
+    }
+
+    & .start-shopping-btn{
+        background-color: orangered;
+        border-radius: 25px;
+        padding: 2px 10px 4px;
+        color: white;
+    }
+}
+
