@@ -69,10 +69,12 @@ a:link{
         & .nav-right{
             display: flex;
             align-items: center;
+            height: 100%;
+            width: 6%;
 
             & .sign-in{
                 border-radius: 25px;
-                background-color: #4e4c4c;
+                background-color: black;
                 color: white;
                 display: flex;
                 height: 60%;
@@ -101,6 +103,7 @@ a:link{
     & p{
         max-width: 40%;
         text-align: center;
+
     }
 
     & .start-shopping-btn{
@@ -111,3 +114,77 @@ a:link{
     }
 }
 
+.card-row{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    & a{
+        height: 60%;
+            }
+        & img {
+
+            border-radius: 10px;
+            height: 100%;
+
+        }
+
+
+  }
+.introduction{
+    display: grid;
+    height: 75vh;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
+    grid-template-areas:
+            'top top'
+            'left right'
+            'bottom bottom';
+    & .is-top{
+    grid-area: top;
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        & .is-top-first-p{
+            color: rgb(0, 104, 205);
+            font-weight: bold;
+
+        }
+        & h2{
+            margin-bottom: 2%;
+        }
+    }
+    & .is-left{
+        grid-area: left;
+
+    }
+    & .is-right{
+        grid-area: right;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+            &img{
+                max-width: 100%;
+                max-height: 100%;
+                object-fit: contain;
+            }
+    }
+    & .is-bottom{
+        grid-area: bottom;
+
+    }
+}
+
+.first-section{
+    height: 70vh;
+    background-image: url("./assets/deel-1/hero-banner.png");
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
