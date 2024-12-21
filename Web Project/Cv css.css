@@ -163,3 +163,36 @@ footer {
 html {
     scroll-behavior: smooth;
 }
+
+ .experience {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+ }
+
+.job {
+    margin-bottom: 20px;
+}
+
+.job-details {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.job-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.job-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.job-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.job-table tr:hover {
+    background-color: #f1f1f1;
+}
