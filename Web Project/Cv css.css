@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar .logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}.navbar .nav-links li a {
+     text-decoration: none;
+     color: #fff;
+     font-size: 1em;
+     transition: color 0.3s;
+ }
+
+.navbar .nav-links li a:hover {
+    color: #ff9800;
+}
+
+
+.cv-container {
+    max-width: 900px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 165px;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+
+}
+
+.header-info h1 {
+    font-size: 2em;
+    color: #222;
+}
+
+.header-info p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.contact a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+    color: #0056a3;
+}
+
+
+main h2 {
+    font-size: 1.8em;
+    color: #222;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.about, .experience, .education, .contact-section {
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.job h3 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.job-details {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-left: 20px;
+    list-style: disc;
+}
+
+
+.contact-button {
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.contact-button:hover {
+    background-color: #0056a3;
+    transform: scale(1.05);
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}

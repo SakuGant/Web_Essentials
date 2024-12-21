@@ -160,3 +160,37 @@ a {
         grid-area: bottom;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .navigation-section {
+        &nav{
+            height: auto;
+            flex-direction: column-reverse;
+            & .nav-left {
+                flex-direction: column;
+                height: auto;
+
+                &img{
+                    height: 5vh
+                }
+                & .hyperlinks {
+                    flex-direction: column;
+                }
+            }
+        }
+    }
+    &.nav-right{
+
+        width: 80%;
+        
+        & .sign-in-btn {
+            color: white;
+            border-radius: 25px;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 2%;
+        }
+    }
+}

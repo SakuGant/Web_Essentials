@@ -5,64 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c827c70-b756-4cd6-b6e3-e4a737d18c17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_24_10/playstation/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Playstation/playstation_24_10/playstation/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_24_10/playstation/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Playstation/playstation_24_10/playstation/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/Herhalingsoefening sony opgave v1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/Herhalingsoefening sony opgave v1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/banner-2-card-1.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/banner-2-card-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/banner-2-card-3.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-1.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-2.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-3.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-4.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-5.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/card-6.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/far-cry-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/hero-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/playstation-logo-blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-1/sony-logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-2/camera.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-2/console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-2/controllers.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-2/headsets.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-2/remote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/deathloop.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/democracy-spreader-2042.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/fifa-70-dollar-reskin-22.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/guardians-of-the-galaxy.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/horizon-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/los-pollos-hermanos-cuba-branch.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/postbode-simulator.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/riders-republic.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/shitty-left-4-dead-clone.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/skyrim-super-mega-deluxe-goty-extra-special-edition.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/solar-ash.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/spooky-village.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-3/weeb-warrior.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/all-store-deals.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/end-of-year-deal.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/free-to-play.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/playstation-4.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/playstation-accessoires.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/playstation-vr.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/ps-plus-background-art.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/ps-plus-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-4/ps-plus-monthly-games.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-5/facebook-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-5/instagram-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-5/playstation-logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-5/twitter-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/deel-5/youtube-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/entire-playstation-homepage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/playstation-homepage1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/playstation-homepage2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/playstation-homepage3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/playstation-homepage4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/assets/playstation-homepage5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/homepage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playstation/playstation_oplossing_1_prob/playstation/homepage.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Project/Afbeeldingen/My picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Project/Cv css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web Project/Cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playstation up to date/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playstation up to date/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playstation up to date/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../playstation up to date/homepage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.homepage.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sorda/Web_Essentials/playstation up to date",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sorda/Web_Essentials/playstation up to date&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -128,6 +76,8 @@
       <workItem from="1731587849753" duration="1875000" />
       <workItem from="1732192785216" duration="6593000" />
       <workItem from="1732797510480" duration="159000" />
+      <workItem from="1734794336276" duration="2979000" />
+      <workItem from="1734817495780" duration="599000" />
     </task>
     <servers />
   </component>
