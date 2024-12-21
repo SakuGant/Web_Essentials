@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c827c70-b756-4cd6-b6e3-e4a737d18c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Web Project/Afbeeldingen/My picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web Project/Cv css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web Project/Cv.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../playstation up to date/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playstation up to date/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../playstation up to date/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/../playstation up to date/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Project/Cv css.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Project/Cv css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Project/Cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Project/Cv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <workItem from="1732192785216" duration="6593000" />
       <workItem from="1732797510480" duration="159000" />
       <workItem from="1734794336276" duration="2979000" />
-      <workItem from="1734817495780" duration="599000" />
+      <workItem from="1734817495780" duration="625000" />
     </task>
     <servers />
   </component>

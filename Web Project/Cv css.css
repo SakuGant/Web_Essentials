@@ -69,7 +69,13 @@ body {
     height: 165px;
     border-radius: 50%;
     border: 2px solid #ddd;
-
+    opacity: 1;
+    box-shadow: 0 4px 6px transparent;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.profile-pic:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3); /
 }
 
 .header-info h1 {
