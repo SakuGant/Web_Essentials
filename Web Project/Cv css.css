@@ -68,14 +68,20 @@ body {
     width: 150px;
     height: 165px;
     border-radius: 50%;
-    border: 2px solid #ddd;
+
     opacity: 1;
-    box-shadow: 0 4px 6px transparent;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    border: 5px solid transparent;
 }
 .profile-pic:hover {
     transform: translateY(-10px);
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3); /
+}
+.profile-pic:active {
+    transform: translateY(0);
+    box-shadow: none;
+    border: 5px solid #007BFF;
 }
 
 .header-info h1 {
