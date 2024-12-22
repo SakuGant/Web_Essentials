@@ -7,7 +7,6 @@
 
 body {
     background-image: url('https://cdn.discordapp.com/attachments/1049369592771923978/1320176162936197180/pink-clouds-wallpaper-picjumbo-com.jpg?ex=6768a55c&is=676753dc&hm=90356b1ce64dd65a9b5df1b7dc9651237588b1d199208d961ec56e299584c1c4&');
-    color: #333;
     line-height: 1.6;
     font-size: 12pt;
 }
@@ -15,7 +14,7 @@ body {
 .cv-container {
     max-width: 900px;
     margin: 20px auto;
-    background: #fff;
+    background: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -25,7 +24,7 @@ body {
     display: flex;
     align-items: center;
     gap: 20px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid gray;
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
@@ -35,6 +34,20 @@ body {
     height: 165px;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+}
+
+
+.profile-pic:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+
+.profile-pic:active {
+    transform: translateY(0);
+    box-shadow: none;
+    border: 3px solid #0077cc;
 }
 
 .header-info h1 {
@@ -44,11 +57,11 @@ body {
 
 .header-info p {
     font-size: 1.2em;
-    color: #666;
+    color: #20629e;
 }
 
 .contact a {
-    color: #0077cc;
+    color: #20629e;
     text-decoration: none;
 }
 
@@ -58,9 +71,9 @@ body {
 
 main h2 {
     font-size: 1.8em;
-    color: #222;
+    color: #20629e;
     margin-bottom: 10px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: groove solid gray;
     padding-bottom: 5px;
 }
 
@@ -72,7 +85,7 @@ main h2 {
 .job-info {
     margin-top: 10px;
     font-style: italic;
-    color: #666;
+    color: #20629e;
 }
 
 ul {
@@ -83,7 +96,7 @@ ul {
 footer {
     margin-top: 20px;
     font-size: 0.9em;
-    color: #666;
+    color: black;
 }
 
 .left-align {
@@ -124,12 +137,22 @@ footer {
         display: none;
     }
 
-
     .job-info {
         display: block;
     }
 
     .job {
         margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 769px) {
+
+    .job-table {
+        display: table;
+    }
+
+    .job-info {
+        display: none;
     }
 }
