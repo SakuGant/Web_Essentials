@@ -199,9 +199,10 @@ html {
     background-color: #f1f1f1;
 }
 .left-align{
-    width: 33%;
+    width: 32%;
     display: inline-block;
     text-align: left;
+    margin-left: 10px;
 }
 .middle-align{
     width: 33%;
@@ -214,7 +215,7 @@ html {
     text-align: right;
 }
 .button{
-    width: 33%;
+    width: 30%;
     display: inline-block;
     border-radius: 10px;
     background-color: black;
