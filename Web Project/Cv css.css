@@ -9,6 +9,7 @@ body {
     background-image: url('https://cdn.discordapp.com/attachments/1049369592771923978/1320176162936197180/pink-clouds-wallpaper-picjumbo-com.jpg?ex=6768a55c&is=676753dc&hm=90356b1ce64dd65a9b5df1b7dc9651237588b1d199208d961ec56e299584c1c4&');">
     color: #333;
     line-height: 1.6;
+    font-size: 12pt;
 }
 
 
@@ -224,5 +225,7 @@ html {
     justify-content: center;
 
 }
+@media (max-width: 480px) {}
+
 
 
